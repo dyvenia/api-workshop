@@ -4,7 +4,7 @@ Welcome to API Workshop. This is a very simple repository containing the basics 
 
 
 #### Go through API_fundamentals_workshop.pdf
-https://github.com/dyvenia/api-workshop/API_fundamentals_workshop.pdf
+[Presentation](./API_fundamentals_workshop.pdf)
 
 
 ### Exercises:
