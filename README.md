@@ -3,8 +3,7 @@ Hello 👋
 Welcome to API Workshop. This is a very simple repository containing the basics of APIs, some theory, and exercises.
 
 
-#### Go through API_fundamentals_workshop.pdf
-[Presentation](./API_fundamentals_workshop.pdf)
+#### Go through [API_fundamentals_workshop.pdf](./API_fundamentals_workshop.pdf) Presentation
 
 
 ### Exercises:
